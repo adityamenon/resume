@@ -1,41 +1,57 @@
-### Career Objective:
+### My Career Objectives:
 
-Have fun working on a diverse range of technologies and platforms, building large and complex, impactful applications.
++ Build impactful applications.
++ Work on a diverse range of technologies and platforms.
++ Have fun doing it all.
 
-### Strongest and current working knowledge:
-#### Programming languages
+### Quick overview: my strongest areas.
+#### Programming languages I generally code in
 + PHP
 + JavaScript
 
-#### Platforms and Tools
-+ Laravel
-+ AngularJS
+#### Platforms and Tools I prefer to use
++ Laravel [always on the latest version :-)]
++ AngularJS, loDash
 + Git SCM
 + Debian based Linux distros [Debian, Ubuntu and variants]
-+ Bash
-+ JS tooling: RequireJS, Grunt, Bower, Yeoman
-+ PHP tooling: PEAR, Composer
++ JS tooling: RequireJS, Grunt, Bower, Yeoman, Gulp
++ PHP tooling: Composer, PEAR
 
-#### Domain knowledge
-+ OO programming of both the PHP and JavaScript specific flavors
-
-#### Past technologies
+#### Technologies I've employed in the past (and return to from time to time)
 + Drupal 6 and 7
 + CodeIgniter
 + OpenCart
 + jQuery
 
-#### Novice level
-+ Java
+#### Technologies I'd like to delve deeper into
++ MeteorJS
 + Haskell
++ Java
 + Python
 
-### Experience overview (most recent first)
+### My industry experience (only the parts that matter!)
 
-##### With Laravel 4:
-1. Worked on developing a few internal facing applications, along with work done on creating and polishing REST APIs. Helped complete many deep features and solved data level problems and bugs with systems.
+#### Laravel 4:
+##### Work on building APIs.
+1. An Industry-level Data Management API.
+    + An "API to represent entire industries".
+    + Serving more than 30 different endpoints.
+    + Served multiple kinds of stakeholders, with each kind having different levels of requirements.
+    + Allowed higher level stakeholders to manage access control on lower levels.
+    + A flexible taxonomy system based on the concepts of Tags and Tag Categories.
+    + A flexible data-asset management system based on the above taxonomy system.
+2. Backend for a B2B marketplace.
+    + Allowed listing of several categories of offerings to be made available.
+    + Endpoints allowed querying of data by various parameters.
+3. Backend for a CRM application built for a car rental company.
+    + API to manage Clients, Contracts, Assets and Employees of the company.
+4. Backend for a Legal Document and Compliance Management system
+    + Allow 
 
-##### With AngularJS:
+##### Packages and work I'd like to mention
+1. 
+
+##### AngularJS (+ RequireJS, loDash, jQuery, etc....):
 1. Worked on integrating RequireJS and AngularJS, and helped complete a large, reusable 'backoffice' (administration UI) that worked in conjunction with the REST APIs.
 
 2. After writing a jQuery application for the rockn signup project (details below), I was looking for a change to cleaner code that was easier to maintain. So we [rebuilt in Angular](http://signup.rocknjobz.com). Modular and much shorter code was the result. I have a great bias toward using Angular on any new project now.
@@ -60,7 +76,7 @@ I have worked on creating a scalable infrastructure for hosting openstreetmap se
 
 3. Wrote a module for selecting items from a hotel's menu.
 
-Some of these were subcontracts, some private apps, some have been discontinued. I've provided links where possilbe. I've also done a large amount of non-complex website work, in addition to some ancient, custom-built PHP apps, admittedly many of those are offline, so I have skipped mentioning them.
+I've also done a large amount of non-complex website work, in addition to some ancient, custom-built PHP apps, admittedly many of those are offline, so I have skipped mentioning them.
 
 ### Personal information
 Date of birth: July 1990
