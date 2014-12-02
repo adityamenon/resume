@@ -23,66 +23,97 @@
 + OpenCart
 + jQuery
 
-#### Technologies I'd like to delve deeper into
+#### Technologies I'd like to delve deeper into soon
 + MeteorJS
++ Intel XDK, Ionic Framework
 + Haskell
-+ Java
-+ Python
 
-### My industry experience (only the parts that matter!)
+### A few of the apps I've built
 
-#### Laravel 4:
-##### Work on building APIs.
-1. An Industry-level Data Management API.
+#### Systems that were divided in two parts: an API backend, and an independent JS frontend.
+
+##### An Industry-level Data Management system.
+Backend:
     + An "API to represent entire industries".
     + Serving more than 30 different endpoints.
     + Served multiple kinds of stakeholders, with each kind having different levels of requirements.
     + Allowed higher level stakeholders to manage access control on lower levels.
     + A flexible taxonomy system based on the concepts of Tags and Tag Categories.
     + A flexible data-asset management system based on the above taxonomy system.
-2. Backend for a B2B marketplace.
-    + Allowed listing of several categories of offerings to be made available.
+Frontend:
+    + About 20 screens, with many different interactive elements.
+    + Token based access management system.
+
+Main technologies utilized: **Laravel 4**, **Angular JS**
+
+##### B2B marketplace.
+Outline:
+    + Listing of several categories of offerings to be browsed.
     + Endpoints allowed querying of data by various parameters.
-3. Backend for a CRM application built for a car rental company.
-    + API to manage Clients, Contracts, Assets and Employees of the company.
-4. Backend for a Legal Document and Compliance Management system
-    + Allow 
+    + Access control system.
 
-##### Packages and work I'd like to mention
-1. 
+Key skills learned:
+    + Building an ecommerce like viewing layout with AngularJS.
+    + Implemented a token based authentication scheme that allowed frontend to track server sessions.
 
-##### AngularJS (+ RequireJS, loDash, jQuery, etc....):
-1. Worked on integrating RequireJS and AngularJS, and helped complete a large, reusable 'backoffice' (administration UI) that worked in conjunction with the REST APIs.
+Main technologies utilized: **Laravel 4**, **Angular JS**
 
-2. After writing a jQuery application for the rockn signup project (details below), I was looking for a change to cleaner code that was easier to maintain. So we [rebuilt in Angular](http://signup.rocknjobz.com). Modular and much shorter code was the result. I have a great bias toward using Angular on any new project now.
+##### CRM application built for a car rental company.
+Outline:
+    + App to manage Clients, Contracts, Assets and Employees of the company.
+    + Provided CRUD operations and PDF generation for each category.
+    + Managed data relationships between these entities.
 
-3. An exploratory UI for an app called [Peeplocal](http://dev.peeplocal.com/). This was a jQuery plugin we saw elsewhere that I recreated as a directive.
+Main technologies utilized: **Laravel 4**, **Angular JS**
 
-##### With Laravel 3:
+##### Legal Document and Compliance Management system
+Outline:
+    + App for a major retailer to manage legal compliance status for a global network of suppliers.
+    + Two different frontends for the retailer vs. the suppliers.
+    + Emailing system that kept track of non-compliant suppliers and sent reminders to ensure they did.
 
-1. A backend for the jQuery based signup area of [Rocknjobz](http://dev.rocknjobz.com/signup/) (was still under construction when we changed tracks).
+Key skills learned:
+    + Implemented a highly secure JWT based authentication scheme: http://security.stackexchange.com/q/64541/5611
 
-I have worked on creating a scalable infrastructure for hosting openstreetmap servers (similar to the work of mapbox), sysadmin oriented work. The plan was to start a SaaS offering for hosted maps.
+Main technologies utilized: **Laravel 4**, **Angular JS**
 
-##### With CodeIgniter:
+#### Plain systems without a separate frontend being served
 
-1. Had built a Workflow management system, customized for one particular Italian bank's requirements.
-2. Built a 'goal tracking' app, similar to HabitRPG but [less complex](http://achieve.joosab.com/).
+##### Codebase rewrite for a Cryptocurrency marketplace
+Outline:
+    + Laravel rewrite commissioned for a cryptocurrency marketplace written in plain PHP.
+    + Project abandoned due to time constraints of client, but I learnt a few things when building this.
 
-##### With Drupal:
+Key skills learned:
+    + Built social login into the system.
+    + Built a 2 factor auth system integration into the social login, as of this writing no such package exists yet for Laravel.
 
-1. I had built a 'casesheet management system', distributed to a couple Physiotherapy clinics. It allows doctors and their staff to fill out a form with the patient's detailed case history, and later browse these. A digitization of the usual paper-based way of doing things.
-2. Had written a module to change how checkout works, to provide custom prorated pricing depending on actual dates of utilization, for [these guys](http://cloudvirtualoffice.com).
+Main technologies utilized: **Laravel 4**, **Cartalyst\Arsenal**, **GAuthify**
 
-3. Wrote a module for selecting items from a hotel's menu.
+#### Older pieces of experience
+
+##### AngularJS
++ After writing a jQuery application for the rockn signup project (details below), I was looking for a change to cleaner code that was easier to maintain. So we rebuilt in Angular. Modular and much shorter code was the result. This was my first intro to Angular.
++ An exploratory UI for an event info app. This was a jQuery plugin we saw elsewhere that I recreated as an Angular directive.
+
+##### Sysadmin and Linux:
+
++ Worked on creating a scalable infrastructure for hosting openstreetmap servers (similar to the work of mapbox). The plan was to start a SaaS offering for hosted maps. We had the technology down, but we did not develop the SaaS platform to sell it out of.
+
+##### CodeIgniter:
+
++ Had built a Workflow management system, customized for one particular Italian bank's requirements.
++ Built a 'goal tracking' app, similar to HabitRPG but [less complex](http://achieve.joosab.com/).
+
+##### Drupal:
+
++ I had built a 'casesheet management system', distributed to a couple Physiotherapy clinics. It allows doctors and their staff to fill out a form with the patient's detailed case history, and later browse these. A digitization of the usual paper-based way of doing things.
++ Had written a module to change how checkout works, to provide custom prorated pricing depending on actual dates of utilization, for [these guys](http://cloudvirtualoffice.com).
 
 I've also done a large amount of non-complex website work, in addition to some ancient, custom-built PHP apps, admittedly many of those are offline, so I have skipped mentioning them.
 
 ### Personal information
 Date of birth: July 1990
-
-Education: High School diploma (10+2)
-
 Spoken language proficiency: English (excellent written and verbal skills), Hindi, and Telugu
 
 (This [living](http://github.com/adityamenon/resume) document was written in [Markdown](http://daringfireball.net/projects/markdown/), then converted to PDF format with [markdown-pdf](https://npmjs.org/package/markdown-pdf). Go web technologies!)
