@@ -103,12 +103,12 @@ Main technologies utilized: **Laravel 4**, **Cartalyst\Arsenal**, **GAuthify**
 ##### CodeIgniter:
 
 + Had built a Workflow management system, customized for one particular Italian bank's requirements.
-+ Built a 'goal tracking' app, similar to HabitRPG but [less complex](http://achieve.joosab.com/).
++ Built a 'goal tracking' app, similar to HabitRPG but less complex.
 
 ##### Drupal:
 
 + I had built a 'casesheet management system', distributed to a couple Physiotherapy clinics. It allows doctors and their staff to fill out a form with the patient's detailed case history, and later browse these. A digitization of the usual paper-based way of doing things.
-+ Had written a module to change how checkout works, to provide custom prorated pricing depending on actual dates of utilization, for [these guys](http://cloudvirtualoffice.com).
++ Had written a module to change how checkout works, to provide custom prorated pricing depending on actual dates of utilization, for CloudVirtualOffice.
 
 I've also done a large amount of non-complex website work, in addition to some ancient, custom-built PHP apps, admittedly many of those are offline, so I have skipped mentioning them.
 
