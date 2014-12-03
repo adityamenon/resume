@@ -34,6 +34,7 @@
 
 ##### An Industry-level Data Management system.
 Backend:
+
     + An "API to represent entire industries".
     + Serving more than 30 different endpoints.
     + Served multiple kinds of stakeholders, with each kind having different levels of requirements.
@@ -41,6 +42,7 @@ Backend:
     + A flexible taxonomy system based on the concepts of Tags and Tag Categories.
     + A flexible data-asset management system based on the above taxonomy system.
 Frontend:
+
     + About 20 screens, with many different interactive elements.
     + Token based access management system.
 
@@ -48,11 +50,13 @@ Main technologies utilized: **Laravel 4**, **Angular JS**
 
 ##### B2B marketplace.
 Outline:
+
     + Listing of several categories of offerings to be browsed.
     + Endpoints allowed querying of data by various parameters.
     + Access control system.
 
 Key skills learned:
+
     + Building an ecommerce like viewing layout with AngularJS.
     + Implemented a token based authentication scheme that allowed frontend to track server sessions.
 
@@ -60,6 +64,7 @@ Main technologies utilized: **Laravel 4**, **Angular JS**
 
 ##### CRM application built for a car rental company.
 Outline:
+
     + App to manage Clients, Contracts, Assets and Employees of the company.
     + Provided CRUD operations and PDF generation for each category.
     + Managed data relationships between these entities.
@@ -68,11 +73,13 @@ Main technologies utilized: **Laravel 4**, **Angular JS**
 
 ##### Legal Document and Compliance Management system
 Outline:
+
     + App for a major retailer to manage legal compliance status for a global network of suppliers.
     + Two different frontends for the retailer vs. the suppliers.
     + Emailing system that kept track of non-compliant suppliers and sent reminders to ensure they did.
 
 Key skills learned:
+
     + Implemented a highly secure JWT based authentication scheme: http://security.stackexchange.com/q/64541/5611
 
 Main technologies utilized: **Laravel 4**, **Angular JS**
@@ -81,10 +88,12 @@ Main technologies utilized: **Laravel 4**, **Angular JS**
 
 ##### Codebase rewrite for a Cryptocurrency marketplace
 Outline:
+
     + Laravel rewrite commissioned for a cryptocurrency marketplace written in plain PHP.
     + Project abandoned due to time constraints of client, but I learnt a few things when building this.
 
 Key skills learned:
+
     + Built social login into the system.
     + Built a 2 factor auth system integration into the social login, as of this writing no such package exists yet for Laravel.
 
