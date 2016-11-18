@@ -1,34 +1,54 @@
-### My Career Objectives:
+## Quick overview
 
-+ Build impactful applications.
-+ Work on a diverse range of technologies and platforms.
-+ Have fun doing it all.
+### Most important work
 
-### Quick overview: my strongest areas.
-#### Programming languages I generally code in
-+ PHP
-+ JavaScript
+##### Ongoing work on Logistics Software for honestbee
 
-#### Platforms and Tools I prefer to use
-+ Laravel [always on the latest version :-)]
-+ AngularJS, loDash
-+ Git SCM
-+ Debian based Linux distros [Debian, Ubuntu and variants]
-+ JS tooling: RequireJS, Grunt, Bower, Yeoman, Gulp
-+ PHP tooling: Composer, PEAR
+I help build frontend UI and backend API features with TDD principles for internal facing Logistics tools, while keeping in mind the needs of multiple stakeholder dimensions.
 
-#### Technologies I've employed in the past (and return to from time to time)
-+ Drupal 6 and 7
-+ CodeIgniter
-+ OpenCart
-+ jQuery
+##### Rewrite of a legacy codebase in ReactJS & Node.js
 
-#### Technologies I'd like to delve deeper into soon
-+ MeteorJS
-+ Intel XDK, Ionic Framework
-+ Haskell
+I rewrote the entire stack of a budding startup that was struggling with an unscalable, buggy codebase consisting of PHP and jQuery code, to a React/Redux based frontend and AWS powered Node.js backend infrastructure. They launched within weeks and achieved seed funding shortly after.
 
-### A few of the apps I've built
+Main technologies utilized: **ReactJS, Redux, ES6**, **Node.js**, **Amazon AWS include**
+
+##### Worked on the Backend for Gut Check™ app (Johnson & Johnson)
+
+An app that helps IBD patients report treatment outcomes to their specialists in a convenient, consistent & secure way. I implemented a complex architecture for authentication & data flow, while helping out with production grade infrastructure building for the APIs.
+
+Main technologies utilized: **Node.js & Mongo based mBaaS**, **HIPAA Storage APIs**, **Laravel 4**, **Amazon AWS**, **Angular JS**
+
+### Strongest technical skills & areas of expertise
+#### Programming languages I prefer to use
+* JavaScript [production experience] [ES6 knowledge]
+* Ruby on Rails
+* PHP
+* Node.js
+
+#### Platforms and Tools I have experience with
+* Go
+* Realtime Servers
+* Docker
+* mBaaS services (Kinvey)
+* Laravel (3, 4, 5)
+* AngularJS, loDash
+* Git SCM
+* Debian based Linux distros [Debian, Ubuntu and variants]
+* JS tooling: RequireJS, Grunt, Bower, Yeoman, Gulp
+* PHP tooling: Composer, PEAR
+* Drupal 6 and 7
+* CodeIgniter
+* OpenCart
+* jQuery
+
+#### Technologies and Fields I'm excited about
+* Realtime servers & DBs: Deepstream, RethinkDB
+* Machine Intelligence Systems: Tensorflow, Prediction.IO
+* Huge Scale Infrastructure management: Kubernetes, Mesos, Docker Swarm
+* New age database systems: CockroachDB, InfluxDB and more
+* Infrastructure Security at OS and Network level
+
+### Some technology I've built, listed most recent to oldest
 
 #### Systems that were divided in two parts: an API backend, and an independent JS frontend.
 
@@ -123,6 +143,7 @@ I've also done a large amount of non-complex website work, in addition to some a
 
 ### Personal information
 Date of birth: July 1990
-Spoken language proficiency: English (excellent written and verbal skills), Hindi, and Telugu
+
+Spoken language proficiency: English (excellent written and verbal skills), German (very basic spoken & written skills), Hindi, and Telugu
 
 (This [living](http://github.com/adityamenon/resume) document was written in [Markdown](http://daringfireball.net/projects/markdown/), then converted to PDF format with [markdown-pdf](https://npmjs.org/package/markdown-pdf). Go web technologies!)
