@@ -1,3 +1,90 @@
+### EXPERIENCE (listed most recent to oldest)
+
+Freelance Software Developer
+Mar 2011 -  Dec 2014
+
+Worked on a large variety of projects, with increasing complexity. Starting at the very basics with HTML & CSS conversion of designs made in Photoshop, and culminating in multiple AngularJS and backend framework based projects for clients across multiple continents.
+
+I also learned Marketing, Sales management and Project management skills during this period, as I was mostly a single person "agency" whom depended on this business as a sole source of income.
+
+Some of my more important projects during this period:
+
+1. Codebase rewrite for a Cryptocurrency marketplace
+Outline:
+
+    + Laravel rewrite commissioned for a cryptocurrency marketplace written in plain PHP.
+    + Project abandoned due to time constraints of client, but I learnt a few things when building this.
+
+Key skills learned:
+
+    + Built social login into the system.
+    + Built a 2 factor auth system integration into the social login, as of this writing no such package exists yet for Laravel.
+
+Technologies: **Laravel 4**, **Cartalyst\Arsenal**, **GAuthify**
+
+1. CMS to manage Ayurvedic data catalog:
+    Created a protected website management interface through which the client could manipulate thousands of herbs, medicines and diseases and their interconnections.
+
+2. Jobs portal and Custom tile server based on OpenStreetMap data:
+    1. The website's interface was built with AngularJS, it was similar to zillow to display jobs on a map.
+    2. Client requested for their own tile server because Google Maps API was prohibitively expensive. I built a tile server using various tools from the OpenStreetMap ecosystem.
+
+3. Casesheet management system:
+    A Drupal 6 based data management system for Physiotherapists to manage patient data over extended periods of time.
+
+4. An Industry-level Data Management system.
+Backend:
+
+    + An "API to represent entire industries".
+    + Serving more than 30 different endpoints.
+    + Served multiple kinds of stakeholders, with each kind having different levels of requirements.
+    + Allowed higher level stakeholders to manage access control on lower levels.
+    + A flexible taxonomy system based on the concepts of Tags and Tag Categories.
+    + A flexible data-asset management system based on the above taxonomy system.
+Frontend:
+
+    + About 20 screens, with many different interactive elements.
+    + Token based access management system.
+
+Main technologies utilized: **Laravel 4**, **Angular JS**
+
+##### B2B marketplace.
+Outline:
+
+    + Listing of several categories of offerings to be browsed.
+    + Endpoints allowed querying of data by various parameters.
+    + Access control system.
+
+Key skills learned:
+
+    + Building an ecommerce like viewing layout with AngularJS.
+    + Implemented a token based authentication scheme that allowed frontend to track server sessions.
+
+Main technologies utilized: **Laravel 4**, **Angular JS**
+
+##### CRM application built for a car rental company.
+Outline:
+
+    + App to manage Clients, Contracts, Assets and Employees of the company.
+    + Provided CRUD operations and PDF generation for each category.
+    + Managed data relationships between these entities.
+
+Main technologies utilized: **Laravel 4**, **Angular JS**
+
+IOMEDIA India Pvt. Ltd., Technical Consultant
+Dec 2014 - Apr 2015 (5 months)
+
+SRIJAN TECHNOLOGIES, TECHNICAL ARCHITECT
+Apr 2015 - Aug 2015 (5 months)
+
+IOMEDIA India Pvt. Ltd., Technical Consultant
+Aug 2015 - Jul 2016 (1 year)
+
+CLAYPAY FREELANCE CONSULTANCY
+
+HONESTBEE
+
+
 ## Quick overview
 
 ### Most important work
@@ -52,72 +139,7 @@ Main technologies utilized: **Node.js & Mongo based mBaaS**, **HIPAA Storage API
 
 #### Systems that were divided in two parts: an API backend, and an independent JS frontend.
 
-##### An Industry-level Data Management system.
-Backend:
 
-    + An "API to represent entire industries".
-    + Serving more than 30 different endpoints.
-    + Served multiple kinds of stakeholders, with each kind having different levels of requirements.
-    + Allowed higher level stakeholders to manage access control on lower levels.
-    + A flexible taxonomy system based on the concepts of Tags and Tag Categories.
-    + A flexible data-asset management system based on the above taxonomy system.
-Frontend:
-
-    + About 20 screens, with many different interactive elements.
-    + Token based access management system.
-
-Main technologies utilized: **Laravel 4**, **Angular JS**
-
-##### B2B marketplace.
-Outline:
-
-    + Listing of several categories of offerings to be browsed.
-    + Endpoints allowed querying of data by various parameters.
-    + Access control system.
-
-Key skills learned:
-
-    + Building an ecommerce like viewing layout with AngularJS.
-    + Implemented a token based authentication scheme that allowed frontend to track server sessions.
-
-Main technologies utilized: **Laravel 4**, **Angular JS**
-
-##### CRM application built for a car rental company.
-Outline:
-
-    + App to manage Clients, Contracts, Assets and Employees of the company.
-    + Provided CRUD operations and PDF generation for each category.
-    + Managed data relationships between these entities.
-
-Main technologies utilized: **Laravel 4**, **Angular JS**
-
-##### Legal Document and Compliance Management system
-Outline:
-
-    + App for a major retailer to manage legal compliance status for a global network of suppliers.
-    + Two different frontends for the retailer vs. the suppliers.
-    + Emailing system that kept track of non-compliant suppliers and sent reminders to ensure they did.
-
-Key skills learned:
-
-    + Implemented a highly secure JWT based authentication scheme: http://security.stackexchange.com/q/64541/5611
-
-Main technologies utilized: **Laravel 4**, **Angular JS**
-
-#### Plain systems without a separate frontend being served
-
-##### Codebase rewrite for a Cryptocurrency marketplace
-Outline:
-
-    + Laravel rewrite commissioned for a cryptocurrency marketplace written in plain PHP.
-    + Project abandoned due to time constraints of client, but I learnt a few things when building this.
-
-Key skills learned:
-
-    + Built social login into the system.
-    + Built a 2 factor auth system integration into the social login, as of this writing no such package exists yet for Laravel.
-
-Main technologies utilized: **Laravel 4**, **Cartalyst\Arsenal**, **GAuthify**
 
 #### Older pieces of experience
 
