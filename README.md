@@ -1,7 +1,12 @@
 ### SUMMARY
 
 * Self-taught Software programmer since 2011, currently specialised in building web and browser based systems. 
-* Worked with a wide range of technologies - JavaScript [Node.js, Express, GraphQL, MongoDB, Cordova, ReactJS, Redux, Angular 1.x], Rails 3, PHP [Laravel 3, 4, Drupal 6, 7, CodeIgniter], Servers [Debian based distros, Docker]... and many others.
+* Worked with a wide range of technologies.
+    * JavaScript {Node.js, Express, GraphQL, MongoDB, Cordova, ReactJS, Redux, Angular 1.x]
+    * Ruby on Rails
+    * PHP {Laravel 3, 4, Drupal 6, 7, CodeIgniter}
+    * Server tech {EC2, Debian based distros, Apache, Nginx, Docker}  
+    * ... and many others.
 * Chief learning interests are in Blockchain technology [Ethereum and any others that can offer Smart Contracts], Bitcoin. To a lesser extent - core cryptography. 
 * Also interested in expanding my knowledge of Software and Systems Architecture.
 
