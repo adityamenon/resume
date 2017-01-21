@@ -4,6 +4,7 @@
   "description": "Aditya Menon's resume",
   "main": "index.js",
   "scripts": {
+    "compile": "markdown-pdf README.md -o Resume.pdf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
