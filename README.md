@@ -1,3 +1,7 @@
+Aditya M P
+Full Stack Engineer
+https://adityamenon.co
+
 ### SUMMARY
 
 * Self-taught Software programmer since 2011, currently specialised in building web and browser based systems. 
@@ -89,10 +93,7 @@ Hyderabad, India and New Delhi
 ### CONTACT
 Email: hello@adityamenon.co
 
-### Personal information
-Birth: July 1990
-
-Languages:
+### Languages:
 * English (excellent written and verbal skills)
 * German (basic spoken & written skills)
 * Hindi
