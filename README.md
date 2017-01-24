@@ -22,12 +22,12 @@ Singapore
 2. Build, Maintain and Support state-of-the-art Dispatching software (JavaScript and various APIs).
 3. Support daily logistics operation via technology.
 
-#### ClayPlay Pvt. Ltd.
+#### NowGoTravel Pvt. Ltd.
 (Consultant) Technology Lead  
 Apr 2016 - Jun 2016 (3 months)  
 New Delhi
 
-1. Mission to rewrite the unscalable codebase and train inhouse employees.
+1. Mission to rewrite the then unscalable codebase and train inhouse employees.
 2. Rewrote existing codebase with ReactJS, Redux, and an AWS serverless solution.
 3. Trained inhouse engineers to handle upcoming requirements and leadership.
 4. Setup systems and processes for communication.
