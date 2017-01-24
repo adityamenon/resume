@@ -86,6 +86,9 @@ Hyderabad, India and New Delhi
     * Culminating in multiple AngularJS and backend framework based projects.
     * Laravel 3, 4, 2FA Authentication Systems, Node.js, AngularJS, Debian distros, Database Architecture, UI/UX.
 
+### CONTACT
+Email: hello@adityamenon.co
+
 ### Personal information
 Birth: July 1990
 
