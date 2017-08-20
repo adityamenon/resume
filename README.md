@@ -1,34 +1,48 @@
-Aditya M P
-Full Stack Engineer
+Aditya M P  
+Software Architect  
 https://adityamenon.co
 
 ### SUMMARY
 
-* Self-taught Software programmer since 2011, currently specialised in building web and browser based systems. 
 * Worked with a wide range of technologies.
-    * JavaScript {Node.js, Express, GraphQL, MongoDB, Cordova, ReactJS, Redux, Angular 1.x}
+    * JavaScript {Node.js, Express, GraphQL, MongoDB, Cordova, ReactJS, Redux, Angular 1.x & 2.x}
     * Ruby on Rails
     * PHP {Laravel 3, 4, Drupal 6, 7, CodeIgniter}
-    * Server tech {EC2, Debian based distros, Apache, Nginx, Docker}  
+    * Server tech {EC2, AWS Lambda, Debian based distros, Apache, Nginx, Docker}
     * ... and many others.
-* Chief learning interests are in Blockchain technology {Ethereum, Smart Contracts}, Bitcoin.
-    * To a lesser extent - core cryptography. 
-* Also interested in expanding my knowledge of Software and Systems Architecture.
+* Chief learning interests are in Data Science and applied analytics.
+* Also interested in constantly expanding my knowledge of Software and Systems Architecture.
+* Find the greatest work satisfaction from working closely with Business Stakeholders and delivering end-to-end solutions.
 
 ### EXPERIENCE
 
-#### Honestbee Pte.  
-  
-Senior Software Engineer, Jun 2016 - present      
+#### Srijan Technologies Pte.
+Lead Technical Architect, Apr 2017 - Present
 Singapore
 
-1. Maintain and help build large backend codebase in Rails.
-2. Build, Maintain and Support state-of-the-art Dispatching software (JavaScript and various APIs).
-3. Support daily logistics operation via technology.
+Current Project: "DCDP"
+1. Design and help execute serverless system architecture for the customer facing portion of IoT analytics dashboard.
+2. Provide support and advice for backend architecture to ingress large volumes of data into  Cassandra clusters.
+3. Provide day to day guidance and technical management to ensure developers turn in high quality code across the system.
+4. Bring in process stabilisation and industry standard tooling for varying concerns including auto deployments, automated and manual code review, API documentation, and multi team coordination.
+5. Provide advice to Team Leads on managing developer productivity and flow.
+
+Company-wide activities:
+1. Play a leadership role in guiding the company toward highly objective assessments of technical staff.
+2. Provide both Technical Leadership and key-component execution during the Sales process, and spearhead ventures into new business territory.
+
+#### Honestbee Pte.  
+  
+Senior Software Engineer, Jun 2016 - Mar 2017 (9 months)
+Singapore
+
+1. Maintain and help build new features in a large backend Rails backend.
+2. Build, Maintain and Support Dispatching software (JavaScript and various APIs).
+3. Support daily logistics operation with technology.
 
 #### NowGoTravel Pvt. Ltd.
-(Consultant) Technology Lead  
-Apr 2016 - Jun 2016 (3 months)  
+(Consultant) Technology Lead 
+Apr 2016 - Jun 2016 (3 months) 
 New Delhi
 
 1. Mission to rewrite the then unscalable codebase and train inhouse employees.
@@ -39,8 +53,8 @@ New Delhi
 6. Achieved successful business results within 3 months.
 
 #### IOMEDIA India Pvt. Ltd.
-(Consultant) Full Stack Engineer  
-Aug 2015 - Jul 2016 (1 year)  
+(Consultant) Full Stack Engineer
+Aug 2015 - Jul 2016 (1 year)
 Gurgaon, Delhi NCR
 
 1. Support backend engineering across multiple projects spanning various technologies and businesses.
@@ -52,18 +66,17 @@ Gurgaon, Delhi NCR
     * Prototype integration code of Drupal assets with third party Cloud service data.
 
 #### Srijan Technologies Pvt. Ltd.
-Technical Architect  
-Apr 2015 - Aug 2015 (5 months)  
+Technical Architect
+Apr 2015 - Aug 2015 (5 months)
 Gurgaon, India and New Delhi
 
-1. Support technology deployment at the world's #1 prestigious Consultancy Firm - one of Srijan's most important clients.
-2. Lead on Building an MVP of a product in Drupal and JavaScript to ensure Srijan's win on a contract    
-with a Fortune 500 eCommerce company.
+1. Support technology deployment at the world's #1 Consultancy Firm - one of Srijan's most important clients.
+2. Lead on Building an MVP of a product in Drupal and JavaScript to ensure Srijan's win on a contract with a Fortune 500 eCommerce company.
 3. Other Engineering, Consultancy and Leadership support. 
 
 
 #### IOMEDIA India Pvt. Ltd.
-(Consultant) Full Stack Engineer  
+(Consultant) Full Stack Engineer 
 Dec 2014 - Apr 2015 (5 months)
 Gurgaon, Delhi NCR
 
