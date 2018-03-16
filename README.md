@@ -10,8 +10,6 @@ https://adityamenon.co
     * PHP {Laravel 3, 4, Drupal 6, 7, CodeIgniter}
     * Server tech {EC2, AWS Lambda, Debian based distros, Apache, Nginx, Docker}
     * ... and many others.
-* Chief learning interests are in Data Science and applied analytics.
-* Also interested in constantly expanding my knowledge of Software and Systems Architecture.
 * Find the greatest work satisfaction from working closely with Business Stakeholders and delivering end-to-end solutions.
 
 ### EXPERIENCE
@@ -20,16 +18,12 @@ https://adityamenon.co
 Lead Technical Architect, Apr 2017 - Present
 Singapore
 
-Current Project: "DCDP"
-1. Design and help execute serverless system architecture for the customer facing portion of IoT analytics dashboard.
-2. Provide support and advice for backend architecture to ingress large volumes of data into  Cassandra clusters.
-3. Provide day to day guidance and technical management to ensure developers turn in high quality code across the system.
-4. Bring in process stabilisation and industry standard tooling for varying concerns including auto deployments, automated and manual code review, API documentation, and multi team coordination.
-5. Provide advice to Team Leads on managing developer productivity and flow.
-
-Company-wide activities:
-1. Play a leadership role in guiding the company toward highly objective assessments of technical staff.
-2. Provide both Technical Leadership and key-component execution during the Sales process, and spearhead ventures into new business territory.
+1. Design and help execute system architecture for varying applications.
+2. Provide day to day guidance and technical management to ensure developers turn in high quality code across the system.
+3. Bring in process stabilisation and industry standard tooling for varying concerns including auto deployments, automated and manual code review, API documentation, and multi team coordination.
+4. Provide advice to Team Leads on managing developer productivity and flow.
+5. Play a leadership role in guiding the company toward objective assessments of technical staff.
+6. Provide both Technical Leadership and key-component execution during the Sales process.
 
 #### Honestbee Pte.  
   
