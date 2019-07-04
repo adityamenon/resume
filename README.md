@@ -5,7 +5,7 @@ https://adityamenon.co
 ### SUMMARY
 
 * Worked with a wide range of technologies.
-    * JavaScript {Node.js, Express, GraphQL, MongoDB, Cordova, ReactJS, Redux, Angular 1.x & 2.x}
+    * JavaScript {Node.js, React.js, Angular}
     * Ruby on Rails
     * PHP {Laravel 3, 4, Drupal 6, 7, CodeIgniter}
     * Server tech {EC2, AWS Lambda, Debian based distros, Apache, Nginx, Docker}
@@ -16,7 +16,7 @@ https://adityamenon.co
 
 #### Lead Technical Architect
 Srijan Technologies
-Apr 2017 - Present
+Apr 2017 - July 2019
 Singapore
 
 1. Design and help execute system architecture for varying applications. So far, the projects I've led include:
