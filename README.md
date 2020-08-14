@@ -14,6 +14,18 @@ https://github.com/adityamenon
 
 ### EXPERIENCE
 
+#### Solutions Architect
+Amazon Web Services
+Feb 2020 - Present
+1. Consult with Enterprise, Startup and SME Customers to best leverage AWS Products and deliver business outcomes.
+2. Build of Proofs of Concept using AWS Technologies and a variety of programming languages / frameworks.
+3. Support the growth of AWS business in Singapore.
+
+#### Senior Software Engineer
+ChordX
+Oct 2019 - Feb 2020 (5 months)
+Worked on a cutting edge IoT data pipeline solution for the Maritime industry.
+
 #### Lead Technical Architect
 Srijan Technologies  
 Apr 2017 - July 2019 (2 years 3 months)  
