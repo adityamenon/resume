@@ -25,9 +25,9 @@ Feb 2022 - Present
 #### Solutions Architect
 Amazon Web Services
 Feb 2020 - Feb 2022 (2 years)
-1. Consulted with Enterprise, Startup and SME Customers to best leverage AWS Products and deliver business outcomes.
-2. Build of Proofs of Concept using AWS Technologies and a variety of programming languages / frameworks.
-3. Supported the growth of AWS business in Singapore.
+Launched AWS workloads by providing outcome-driven, cadence-supported consulting within SMB, Startup and ISV customers, across accounts worth $1MM+. 
+
+Areas of coverage & interest included essential AWS Architectural Guidance for driving confident cloud migrations, SaaS tenancy design from a networking & infrastructure perspective, usage of AWS Amplify & Serverless technologies and essential Analytics tooling.
 
 #### Senior Software Engineer
 ChordX
