@@ -1,30 +1,38 @@
-Aditya M P  
-Full Stack Web Developer and Solutions Architect  
+Aditya MP
+Full Stack Engineer and Cloud Architect
 hello@adityamenon.co  
 https://github.com/adityamenon
 
 ### SUMMARY
 
-* Worked with a wide range of technologies:
-    * JavaScript, Node.js, React.js, Angular.
-    * Ruby on Rails.
-    * PHP, Laravel, Drupal.
-    * Amazon Web Services, Azure, Apigee, Debian Linux, Nginx, Docker.
-* Worked closely with Business Stakeholders and delivered end-to-end solutions.
+* Recent experience in Sales Engineering and Cloud Architecture, working directly at Amazon Web Services & Google Cloud, Singapore.
+* Prior background in Full-Stack engineering, with exposure to a wide range of web technologies:
+    * Backend Tech: Node.js, Ruby on Rails, PHP (Laravel, Drupal).
+    * Frontend Frameworks: React.js, Angular.
+    * Amazon Web Services, Google Cloud, Docker.
+
 
 ### EXPERIENCE
 
+#### Customer Engineer, Business Application Platform
+Google (Cloud Platform)
+Feb 2022 - Present
+1. Be a technical champion for customer adoption of Apigee, Anthos Service Mesh, and CloudArmor in 1-1 customer interactions.
+2. Provide specialised consulting in deployment options and efficient usage of Apigee.
+3. Build of Proofs of Concept using GCP Technologies and a variety of programming languages / frameworks.
+4. Help generate demand for Apigee by engaging in developer training and advocacy.
+
 #### Solutions Architect
 Amazon Web Services
-Feb 2020 - Present
-1. Consult with Enterprise, Startup and SME Customers to best leverage AWS Products and deliver business outcomes.
+Feb 2020 - Feb 2022 (2 years)
+1. Consulted with Enterprise, Startup and SME Customers to best leverage AWS Products and deliver business outcomes.
 2. Build of Proofs of Concept using AWS Technologies and a variety of programming languages / frameworks.
-3. Support the growth of AWS business in Singapore.
+3. Supported the growth of AWS business in Singapore.
 
 #### Senior Software Engineer
 ChordX
 Oct 2019 - Feb 2020 (5 months)
-Worked on a cutting edge IoT data pipeline solution for the Maritime industry.
+Worked on a cutting edge IoT+AI solution for the Maritime industry. Owned and delivered improvements on multiple services (written in Node.js & TypeScript) within the telemetry collection framework.
 
 #### Lead Technical Architect
 Srijan Technologies  
