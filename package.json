@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/adityamenon/resume#readme",
   "dependencies": {
-    "markdown-pdf": "^9.0.0"
+    "markdown-pdf": "^11.0.0"
   }
 }
