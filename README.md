@@ -9,7 +9,7 @@ https://github.com/adityamenon
 * Prior background in Full-Stack engineering, with exposure to a wide range of web technologies:
     * Backend Tech: Node.js, Ruby on Rails, PHP (Laravel, Drupal).
     * Frontend Frameworks: React.js, Angular.
-    * Amazon Web Services, Google Cloud, Docker.
+    * Amazon Web Services (Certified 5x), Google Cloud, Docker.
 
 
 ### EXPERIENCE
@@ -25,7 +25,8 @@ Feb 2022 - Present
 #### Solutions Architect
 Amazon Web Services
 Feb 2020 - Feb 2022 (2 years)
-Launched AWS workloads by providing outcome-driven, cadence-supported consulting within SMB, Startup and ISV customers, across accounts worth $1MM+. 
+
+Launched AWS workloads by providing outcome-driven, cadence-supported consulting within SMB, Startup and ISV customers, across opportunities worth $1MM+.
 
 Areas of coverage & interest included essential AWS Architectural Guidance for driving confident cloud migrations, SaaS tenancy design from a networking & infrastructure perspective, usage of AWS Amplify & Serverless technologies and essential Analytics tooling.
 
