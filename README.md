@@ -1,26 +1,20 @@
 Aditya MP
-Full Stack Engineer and Cloud Architect
-hello@adityamenon.co  
-https://github.com/adityamenon
+Cloud Architect and Engineer
+hello@adityamenon.co
 
 ### SUMMARY
 
-* Recent experience in Sales Engineering and Cloud Architecture, working directly at Amazon Web Services & Google Cloud, Singapore.
-* Prior background in Full-Stack engineering, with exposure to a wide range of web technologies:
-    * Backend Tech: Node.js, Ruby on Rails, PHP (Laravel, Drupal).
-    * Frontend Frameworks: React.js, Angular.
-    * Amazon Web Services (Certified 5x), Google Cloud, Docker.
-
+Aditya is a Customer Engineer at Google Cloud with a specialization in Apigee and Application Integration. Aditya has worked with a broad variety of Web based platforms, with experience as a Sales Engineer at Amazon Web Services & Google Cloud, as well as a Product Engineer in Startups and as a Software Architect at Enterprise Organizations. Aditya has created software, founded teams, evangelized products at scale, and drives successful technical engagements.
 
 ### EXPERIENCE
 
 #### Customer Engineer, Business Application Platform
 Google (Cloud Platform)
 Feb 2022 - Present
-1. Be a technical champion for customer adoption of Apigee, Anthos Service Mesh, and CloudArmor in 1-1 customer interactions.
-2. Provide specialised consulting in deployment options and efficient usage of Apigee.
+1. Be a technical champion for customer adoption of Apigee, Application Integration in 1-1 customer interactions.
+2. Provide specialised consulting in deployment options and efficient usage of BAP platforms.
 3. Build of Proofs of Concept using GCP Technologies and a variety of programming languages / frameworks.
-4. Help generate demand for Apigee by engaging in developer training and advocacy.
+4. Support pipeline creation by engaging in Developer Advocacy at scale.
 
 #### Solutions Architect
 Amazon Web Services
