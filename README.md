@@ -4,7 +4,7 @@ hello@adityamenon.co
 
 ### SUMMARY
 
-Aditya is a Customer Engineer at Google Cloud with a specialization in Apigee and Application Integration. Aditya has worked with a broad variety of Web based platforms, with experience as a Sales Engineer at Amazon Web Services & Google Cloud, as well as a Product Engineer in Startups and as a Software Architect at Enterprise Organizations. Aditya has created software, founded teams, evangelized products at scale, and drives successful technical engagements.
+Aditya is a Customer Engineer at Google Cloud with a specialization in Apigee and Application Integration. He has worked with a broad variety of Web based platforms, with experience as a Sales Engineer at Amazon Web Services & Google Cloud, as well as a Product Engineer in Startups and as a Software Architect at Enterprise Organizations. Aditya has created software, founded teams, evangelized products at scale, and drives successful technical engagements.
 
 ### EXPERIENCE
 
