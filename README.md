@@ -1,6 +1,6 @@
-Aditya MP
-Cloud Architect and Engineer
-hello@adityamenon.co
+Aditya MP  
+Cloud Architect and Engineer  
+hello@adityamenon.co  
 
 ### SUMMARY
 
