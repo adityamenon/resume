@@ -9,24 +9,30 @@ Aditya is a Customer Engineer at Google Cloud with a specialization in Apigee an
 ### EXPERIENCE
 
 #### Customer Engineer, Business Application Platform
-Google (Cloud Platform)
-Feb 2022 - Present
+Google Cloud Canada Corporation  
+Sep 2023 - PRESENT  
+Toronto, Canada  
+Google Asia Pacific Pte. Ltd. 
+Feb 2022 - Aug 2023 (1 year)  
+Singapore  
 1. Be a technical champion for customer adoption of Apigee, Application Integration in 1-1 customer interactions.
 2. Provide specialised consulting in deployment options and efficient usage of BAP platforms.
 3. Build of Proofs of Concept using GCP Technologies and a variety of programming languages / frameworks.
 4. Support pipeline creation by engaging in Developer Advocacy at scale.
 
 #### Solutions Architect
-Amazon Web Services
-Feb 2020 - Feb 2022 (2 years)
+Amazon Web Services  
+Feb 2020 - Feb 2022 (2 years)  
+Singapore
 
 Launched AWS workloads by providing outcome-driven, cadence-supported consulting within SMB, Startup and ISV customers, across opportunities worth $1MM+.
 
 Areas of coverage & interest included essential AWS Architectural Guidance for driving confident cloud migrations, SaaS tenancy design from a networking & infrastructure perspective, usage of AWS Amplify & Serverless technologies and essential Analytics tooling.
 
 #### Senior Software Engineer
-ChordX
-Oct 2019 - Feb 2020 (5 months)
+ChordX  
+Oct 2019 - Feb 2020 (5 months)  
+Singapore  
 Worked on a cutting edge IoT+AI solution for the Maritime industry. Owned and delivered improvements on multiple services (written in Node.js & TypeScript) within the telemetry collection framework.
 
 #### Lead Technical Architect
@@ -68,7 +74,7 @@ Gurgaon, India
     * Integrate Drupal assets with third party Cloud service data.
 
 #### Freelance Full Stack web developer
-Self Employed  
+Self Employed
 Feb 2011 - Nov 2014 (3 yrs 10 mos)  
 Delhi, India
 
